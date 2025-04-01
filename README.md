@@ -10,7 +10,7 @@ This repo is based on the [TRUS4 github](https://github.com/liulab-dfci/TRUST4),
 Python >=3.13 is used. Python environment is managed by [uv](https://docs.astral.sh/uv/). See `pyproject.toml`.
 
 ## Notebooks
-Main exercise notebook is `main_exercise.ipynb`. It contains all the code and descriptions.
+Main exercise notebook is [main_exercise.ipynb](https://github.com/yoramzarai/Numenos-exercise/blob/main/main_exercise.ipynb). It contains all the code and descriptions.
 
 
 ## TRUST4
