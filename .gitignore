@@ -1,0 +1,12 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+Reference/
+Data/
+
+# Virtual environments
+.venv
+
+# Misc
+.DS_Store
+.python-version
