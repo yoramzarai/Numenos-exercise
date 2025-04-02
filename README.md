@@ -2,8 +2,14 @@
 
 This repository contains the Numenos exercise files. It is based on the [TRUS4 github](https://github.com/liulab-dfci/TRUST4), with additional files based on Numenos exercise requirement document, which is in the `./Docs` sub-folder.
 
-## Notebooks
+## Notebook
 The exercise notebook is [main_exercise.ipynb](https://github.com/yoramzarai/Numenos-exercise/blob/main/main_exercise.ipynb). It contains all the implementation code and descriptions. Please consult the notebook for a detailed description of the exercise.
+
+## Data
+The data is omitted here due to its size. Either contact me to request the data, or follow the descriptions in the notebook to download the data from its source.
+
+## Results
+Result figures are available in the `./Figure` folder.
 
 ## Prerequisite
 Before running the notebok, make sure that the following are installed in your system:
@@ -18,8 +24,7 @@ Simply install uv, clone this repository and execute:
 ```console
 uv sync
 ```
-
-
+This will create the virtual environment in the `./.venv` folder.
 
 ## TRUST4
-For information about TRUST, see the [TRUST4 github](https://github.com/liulab-dfci/TRUST4).
+For information about TRUST4, see the [TRUST4 github](https://github.com/liulab-dfci/TRUST4).
