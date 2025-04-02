@@ -9,7 +9,7 @@ The exercise notebook is [main_exercise.ipynb](https://github.com/yoramzarai/Num
 The data is omitted here due to its size. Either contact me to request the data, or follow the descriptions in the notebook to download the data from its source.
 
 ## Results
-Result figures are available in the `./Figure` folder.
+Result figures are available in the `./Figure` folder. Results summary is available in the `Results Summary` section.
 
 ## Prerequisite
 Before running the notebok, make sure that the following are installed in your system:
