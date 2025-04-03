@@ -1,9 +1,9 @@
 # TRUST4 Exercise for Numenos
 
-This repository contains the Numenos exercise files. It is based on the [TRUS4 github](https://github.com/liulab-dfci/TRUST4), with additional files based on Numenos exercise requirement document, which is in the `./Docs` sub-folder.
+This repository contains the Numenos exercise files. It is based on the [TRUST4 github](https://github.com/liulab-dfci/TRUST4), with additional files based on Numenos exercise requirement document, which is in the `./Docs` sub-folder.
 
 ## Notebook
-The exercise notebook is [main_exercise.ipynb](https://github.com/yoramzarai/Numenos-exercise/blob/main/main_exercise.ipynb). It contains all the implementation code and descriptions. Please consult the notebook for a detailed description of the exercise.
+The exercise notebook is [main_exercise.ipynb](https://github.com/yoramzarai/Numenos-exercise/blob/main/main_exercise.ipynb). It contains all the implementation code and descriptions. Please consult the notebook for a detailed description of the exercise and its outcome.
 
 ## Data
 The data is omitted here due to its size. Either contact me to request the data, or follow the descriptions in the notebook to download the data from its source.
