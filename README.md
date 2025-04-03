@@ -20,7 +20,7 @@ Before running the notebok, make sure that the following are installed in your s
 ## Python
 Python >=3.13 is used. Python environment is managed by [uv](https://docs.astral.sh/uv/). See the `pyproject.toml` file.
 
-Simply install uv, clone this repository and execute:
+To create the virtual environment, simply install uv, clone this repository and execute:
 ```console
 uv sync
 ```
