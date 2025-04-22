@@ -12,7 +12,7 @@ The data is omitted here due to its size. Either contact me to request the data,
 Result figures are available in the `./Figure` folder. Results summary is available in the `Results Summary` section.
 
 ## Prerequisite
-Before running the notebok, make sure that the following are installed in your system:
+Before running the notebook, make sure that the following are installed in your system:
 - perl5
 - docker
 - [uv](https://docs.astral.sh/uv/)
